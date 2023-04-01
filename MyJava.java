@@ -1,7 +1,8 @@
 public class MyJava{
-	public static void main(String[] args){
+	public static void main(String[] args)
+{
 	
-	System.out.println("Hem");
+	System.out.println("HEllo");
 
 }
 
